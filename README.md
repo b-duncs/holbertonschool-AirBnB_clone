@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/images/hbnb.png" />
-</p>
-
 # Welcome to the AirBnB Clone Project!  
    
 ### What’s a command interpreter?  
@@ -134,10 +130,6 @@ $
 All tests should also pass in non-interactive mode: 
 `$ echo "python3 -m unittest discover tests" | bash`  
 
-<p align="center">
-  <img src="/images/hbnb-map.png" />
-</p>
-
-<p align="center">
-  <img src="/images/data-diagram.jpg" />
+<p>
+  <img src="/images/hbnb.png" alt="hbnb logo" class="center"/>
 </p>
