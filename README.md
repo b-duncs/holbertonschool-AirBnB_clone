@@ -1,7 +1,9 @@
-# Welcome to the AirBnB clone project!  
-  
-### First step: Write a command interpreter to manage your AirBnB objects.  
-  
+<p align="center">
+  <img src="/images/hbnb.png" />
+</p>
+
+# Welcome to the AirBnB Clone Project!  
+   
 ### What’s a command interpreter?  
 Do you remember the Shell? It’s exactly the same but limited to 
 a specific use-case. In our case, we want to be able to manage 
@@ -12,24 +14,34 @@ the objects of our project:
 - Do operations on objects (count, compute stats, etc…)  
 - Update attributes of an object  
 - Destroy an object  
+
+### Web static, what?  
+Before developing a big and complex web application, 
+we will build the front end step-by-step.  
   
-## Learning Objectives  
-At the end of this project, you are expected to be able to explain 
-to anyone, without the help of Google:  
-  
-### General  
-- How to create a Python package  
-- How to create a command interpreter in Python using the cmd module  
-- What is Unit testing and how to implement it in a large project  
-- How to serialize and deserialize a Class  
-- How to write and read a JSON file  
-- How to manage datetime  
-- What is an UUID  
-- What is *args and how to use it  
-- What is **kwargs and how to use it  
-- How to handle named arguments in a function    
+The first step is to “design” / “sketch” / “prototype” each element:  
+- Create simple HTML static pages  
+- Style guide  
+- Fake contents  
+- No Javascript  
+- No data loaded from anything  
   
 ## Requirements  
+  
+### General Info  
+- Allowed editors: `vi`, `vim`, `emacs`  
+- All your files should end with a new line  
+- A `README.md` file, at the root of the folder of the project, is mandatory  
+- Your code should be W3C compliant and validate with `W3C-Validator`  
+- All your CSS files should be in `styles` folder  
+- All your images should be in `images` folder  
+- You are not allowed to use `!important` and `id` (`#...` in the CSS file)  
+- You are not allowed to use tags `img`, `embed` and `iframe`  
+- You are not allowed to use Javascript  
+- Current screenshots have been done on `Chrome 56` or more  
+- No cross browsers  
+- You have to follow all requirements but some `margin`/`padding`  
+  are missing - you should try to fit as much as you can to screenshots  
   
 ### Python Scripts  
 - Allowed editors: `vi`, `vim`, `emacs`  
@@ -37,7 +49,7 @@ to anyone, without the help of Google:
 using python3 (version 3.8.5)  
 - All your files should end with a new line  
 - The first line of all your files should be exactly `#!/usr/bin/python3`  
-- A README.md file, at the root of the folder of the project, is mandatory  
+- A `README.md` file, at the root of the folder of the project, is mandatory  
 - Your code should use the pycodestyle (version 2.7.*)  
 - All your files must be executable  
 - The length of your files will be tested using `wc`  
@@ -78,12 +90,7 @@ documentation `(python3 -c 'print(__import__("my_module").
 my_function.__doc__)'` and `python3 -c 'print(__import__
 ("my_module").MyClass.my_function.__doc__)')`  
 - We strongly encourage you to work together on test cases, 
-so that you don’t miss any edge case  
-  
-### GitHub  
-**There should be one project repository per group. 
-If you clone/fork/whatever a project repository with the 
-same name before the second deadline, you risk a 0% score.**  
+so that you don’t miss any edge case
   
 ## More Info  
   
@@ -126,3 +133,11 @@ $
 ```  
 All tests should also pass in non-interactive mode: 
 `$ echo "python3 -m unittest discover tests" | bash`  
+
+<p align="center">
+  <img src="/images/hbnb-map.png" />
+</p>
+
+<p align="center">
+  <img src="/images/data-diagram.jpg" />
+</p>
