@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680cd67f-9910-44ab-875d-38e9fcf393cd" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/tests/run_test.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/3-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/images/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/3-common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/3-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/3-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/4-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/styles/4-common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/styles/4-filters.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/0-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/0-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/1-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/1-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/2-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/2-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_static/styles/3-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/3-header.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +62,7 @@
       <workItem from="1665537317278" duration="2018000" />
       <workItem from="1665539344587" duration="1001000" />
       <workItem from="1665540365146" duration="46000" />
-      <workItem from="1665540415679" duration="12083000" />
+      <workItem from="1665540415679" duration="16434000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1665539646139</created>
@@ -112,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665634467232</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updated files">
+      <created>1665715250712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665715250712</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

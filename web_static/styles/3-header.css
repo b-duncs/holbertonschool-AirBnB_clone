@@ -1,6 +1,5 @@
 header {
     display: flex;
-    position: absolute;
     top: 0;
     background-color: #FFFFFF;
     border-bottom: 1px solid #CCCCCC;
@@ -9,6 +8,7 @@ header {
 }
 
 .logo {
+    display: inherit;
     background-image: url('../images/logo.png');
     background-repeat: no-repeat;
     background-position: center;
