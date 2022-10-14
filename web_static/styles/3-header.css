@@ -9,10 +9,8 @@ header {
 
 .logo {
     display: inherit;
-    background-image: url('../images/logo.png');
-    background-repeat: no-repeat;
-    background-position: center;
+    background: url('../images/logo.png') no-repeat center;
     width: 142px;
-    height: 60px;
+    height: inherit;
     padding-left: 20px;
 }
