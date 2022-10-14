@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680cd67f-9910-44ab-875d-38e9fcf393cd" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/web_static/1-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/2-index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/2-common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/2-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/styles/2-header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/run_test.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/3-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/styles/3-common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/styles/3-footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web_static/styles/3-header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/data-diagram.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/images/data-diagram.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hbnb-map.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/images/hbnb-map.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hbnb.png" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/images/hbnb.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_static/0-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/0-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_static/1-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/1-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_static/2-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/2-index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,19 +36,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bduncs/Documents/GitHub/holbertonschool-AirBnB_clone&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/bduncs/Documents/GitHub/holbertonschool-AirBnB_clone/tests",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/web_static" />
     </key>
@@ -63,7 +68,7 @@
       <workItem from="1665537317278" duration="2018000" />
       <workItem from="1665539344587" duration="1001000" />
       <workItem from="1665540365146" duration="46000" />
-      <workItem from="1665540415679" duration="6926000" />
+      <workItem from="1665540415679" duration="12083000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1665539646139</created>
@@ -93,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665631931092</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated files">
+      <created>1665634449264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665634449264</updated>
+    </task>
+    <task id="LOCAL-00006" summary="updated files">
+      <created>1665634467232</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1665634467232</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
