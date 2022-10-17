@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="680cd67f-9910-44ab-875d-38e9fcf393cd" name="Changes" comment="updated files">
-      <change afterPath="$PROJECT_DIR$/web_static/images/icon_bath.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/images/icon_bed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_static/images/icon_group.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/7-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/7-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/8-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/8-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/styles/3-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/3-footer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_static/styles/8-places.css" beforeDir="false" afterPath="$PROJECT_DIR$/web_static/styles/8-places.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,18 +26,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/bduncs/Documents/GitHub/holbertonschool-AirBnB_clone/tests",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bduncs/Documents/GitHub/holbertonschool-AirBnB_clone/tests&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/tests" />
@@ -66,7 +58,8 @@
       <workItem from="1665537317278" duration="2018000" />
       <workItem from="1665539344587" duration="1001000" />
       <workItem from="1665540365146" duration="46000" />
-      <workItem from="1665540415679" duration="33056000" />
+      <workItem from="1665540415679" duration="33680000" />
+      <workItem from="1666018177440" duration="1380000" />
     </task>
     <task id="LOCAL-00001" summary="updated files">
       <created>1665539646139</created>
@@ -159,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665799378590</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="updated files">
+      <created>1665805159247</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665805159247</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
